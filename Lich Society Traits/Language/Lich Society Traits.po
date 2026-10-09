@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "LICH@PROGRESSION_ITEM@CULTURE_TRAIT_MEGACITY@TRAIT_NAME"
+msgstr "Megacity"
+
+msgid "LICH@PROGRESSION_ITEM@CULTURE_TRAIT_MEGACITY@LORE"
+msgstr "Megacity Lore"
+
+msgid "LICH@PROGRESSION_ITEM@CULTURE_TRAIT_MEGACITY@BIO"
+msgstr "Megacity Bio"
+
+msgid "LICH@PROGRESSION_ITEM@CULTURE_TRAIT_MEGACITY@EFFECT1_DESCRIPTION"
+msgstr "Megacity Effect 1"
+
+msgid "LICH@PROGRESSION_ITEM@CULTURE_TRAIT_MEGACITY@EFFECT2_DESCRIPTION"
+msgstr "Megacity Effect 2"
+
+msgid "LICH@COLONYUPGRADES_STRATEGIC@MEGACITY_BONUS_T2@NAME"
+msgstr "Megacity Bonus T2"
+
+msgid "LICH@COLONYUPGRADES_STRATEGIC@MEGACITY_BONUS_T3@NAME"
+msgstr "Megacity Bonus T3"
+
+msgid "LICH@COLONYUPGRADES_STRATEGIC@MEGACITY_BONUS_T4@NAME"
+msgstr "Megacity Bonus T4"
