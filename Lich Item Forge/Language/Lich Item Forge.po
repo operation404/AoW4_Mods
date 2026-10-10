@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "LICH@UPGRADES@MELEE_DAMAGE@NAME"
+msgstr "+{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Melee Damage"
+
+msgid "LICH@UPGRADES@MELEE_DAMAGE@DESCRIPTION"
+msgstr "Damage of {GLOBAL.MeleeConcept.Hyperlink} attacks is increased by +{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
+
+msgid "LICH@UPGRADES@MISSILE_DAMAGE@NAME"
+msgstr "+{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Ranged Damage"
+
+msgid "LICH@UPGRADES@MISSILE_DAMAGE@DESCRIPTION"
+msgstr "Damage of {GLOBAL.RangedConcept.Hyperlink} attacks is increased by +{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
+
+msgid "LICH@UPGRADES@PISTOL_QUICKLOADER@NAME"
+msgstr "Quickloader"
+
+msgid "LICH@UPGRADES@PISTOL_QUICKLOADER@DESCRIPTION"
+msgstr "Reduces the cooldown of the Fire ability by 1."
