@@ -2,6 +2,47 @@
 
 ## Changelog
 
+### 0.3
+
+- New Infusions
+  - Armor
+    - **Torso 20% Magic Crit Chance** - 2 cost.
+    - **Torso 10% Magic Crit Chance** - 1 cost.
+    - **Torso 10% Melee Crit Chance** - 1 cost.
+    - **Torso 20% Melee Crit Chance** - 2 cost.
+    - **Torso 10% Ranged Crit Chance** - 1 cost.
+    - **Torso 20% Ranged Crit Chance** - 2 cost.
+    - **Torso Quill Hide** - 1 cost. Applies bleeding to melee attackers.
+    - **Torso Charge Resistance** - 2 cost. Gives charge resistance, countered by heavy charge.
+    - **Torso Obscured** - 4 cost. Gives 40% accuracy penalty to ranged attackers.
+    - **Torso Phase** - 2 cost. Gives the Phase ability, full action leaves one point teleport.
+    - **Head Ignore 1 Status Resistance** - 1 cost. Attacks ignore 1 status resistance.
+    - **Head Ignore 2 Status Resistance** - 2 cost. Attacks ignore 2 status resistance.
+    - **Head Ignore 3 Status Resistance** - 3 cost. Attacks ignore 3 status resistance.
+    - **Head Demoralizing Vision** - 3 cost. Melee attacks have a chance at gaining Remorsed.
+    - **Head Brave** - 1 cost. Lose 50% less morale.
+    - **Head Control Loss Immunity** - 2 cost. Gain immunity to loss of control effects.
+    - **Legs Fiery Wake** - 2 cost. Ignites flammable obstacles and grants immunity to Burning.
+    - **Legs Freedom of Movement** - 2 cost. Grants immunity to Slowed and Immobilized.
+    - **Legs Pass Through** - 2 cost. Grants the ability to move through obstacles.
+  - Amulets & Misc Items
+    - **Amulet HP +10** - 2 cost.
+    - **Amulet Cloud in a Bottle** - 2 cost. Free action ability to push units back and apply wet.
+  - Rings
+    - **Opportunist** - 1 cost. Gives +30% damage to retaliation attacks.
+    - **Lucky Ring** - 1 cost. Gives +5% crit chance.
+    - **Natural Regeneration** - 3 cost. Gives Natural Regeneration, healing 10% hp per turn in combat and 10 hp per turn in the world map.
+    - **Life Steal** - 3 cost. Gives life steal on attacks.
+    - **Lightning Immunity** - 5 cost.
+    - **Blight Immunity** - 5 cost.
+    - **Fire Immunity** - 5 cost.
+    - **Frost Immunity** - 5 cost.
+    - **Spirit Immunity** - 5 cost.
+    - **Morale Immunity** - 5 cost. Gives immunity to morale status effects.
+- Fixes
+  - Fix staves using a different Raise Dead ability than wands.
+  - Fix Summon Spirit Hawk infusion cost, is now properly 2 cost.
+
 ### 0.2
 
 - Fixes

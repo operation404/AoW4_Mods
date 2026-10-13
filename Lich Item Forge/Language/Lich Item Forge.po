@@ -12,19 +12,64 @@ msgstr ""
 "X-Generator: Poedit 3.9\n"
 
 msgid "LICH@UPGRADES@MELEE_DAMAGE@NAME"
-msgstr "+{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Melee Damage"
+msgstr ""
+"+{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Melee Damage"
 
 msgid "LICH@UPGRADES@MELEE_DAMAGE@DESCRIPTION"
-msgstr "Damage of {GLOBAL.MeleeConcept.Hyperlink} attacks is increased by +{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
+msgstr ""
+"Damage of {GLOBAL.MeleeConcept.Hyperlink} attacks is increased by +"
+"{MELEE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
 
 msgid "LICH@UPGRADES@MISSILE_DAMAGE@NAME"
-msgstr "+{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Ranged Damage"
+msgstr ""
+"+{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}% Ranged "
+"Damage"
 
 msgid "LICH@UPGRADES@MISSILE_DAMAGE@DESCRIPTION"
-msgstr "Damage of {GLOBAL.RangedConcept.Hyperlink} attacks is increased by +{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
+msgstr ""
+"Damage of {GLOBAL.RangedConcept.Hyperlink} attacks is increased by +"
+"{MISSILE_DAMAGE_INCREASE_DAMAGE_MULTIPLIER>ResolvedMultiplier}%."
 
 msgid "LICH@UPGRADES@PISTOL_QUICKLOADER@NAME"
 msgstr "Quickloader"
 
 msgid "LICH@UPGRADES@PISTOL_QUICKLOADER@DESCRIPTION"
 msgstr "Reduces the cooldown of the Fire ability by 1."
+
+msgid "LICH@UPGRADES@MELEE_CRIT_CHANCE@NAME"
+msgstr ""
+"+{MELEE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}% Melee Critical "
+"Chance"
+
+msgid "LICH@UPGRADES@MELEE_CRIT_CHANCE@DESCRIPTION"
+msgstr ""
+"Critical chance of {GLOBAL.MeleeConcept.Hyperlink} attacks is increased by +"
+"{MELEE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}%."
+
+msgid "LICH@UPGRADES@MAGIC_CRIT_CHANCE@NAME"
+msgstr ""
+"+{MELEE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}% Melee Critical "
+"Chance"
+
+msgid "LICH@UPGRADES@MAGIC_CRIT_CHANCE@DESCRIPTION"
+msgstr ""
+"Critical chance of {GLOBAL.MagicConcept.Hyperlink} attacks is increased by +"
+"{MAGIC_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}%."
+
+msgid "LICH@UPGRADES@MISSILE_CRIT_CHANCE@NAME"
+msgstr ""
+"+{MISSILE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}% Ranged "
+"Critical Chance"
+
+msgid "LICH@UPGRADES@MISSILE_CRIT_CHANCE@DESCRIPTION"
+msgstr ""
+"Critical chance of {GLOBAL.RangedConcept.Hyperlink} attacks is increased by +"
+"{MISSILE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}%."
+
+msgid "LICH@UPGRADES@FREEDOM_OF_MOVEMENT@NAME"
+msgstr "Freedom of Movement"
+
+msgid "LICH@UPGRADES@FREEDOM_OF_MOVEMENT@DESCRIPTION"
+msgstr ""
+"Grants immunity to becoming {GLOBAL.PROPERTIES.SLOWED.Hyperlink} and "
+"{GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}."
