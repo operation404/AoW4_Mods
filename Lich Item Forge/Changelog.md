@@ -2,6 +2,17 @@
 
 ## Changelog
 
+### 0.4
+
+- Staff & Wand Item Abilities
+  - **Summon Spirit Hawk** - Cost reverted to 1.
+    - *(This infusion is used by both staffs and wands, where many other abilities used by both have two seperate infusions allowing for different point costs depending on the item. For parity, this infusion should be 1 cost on staffs and 2 on wands. Reverting to 1 cost for the time being.)*
+- Fixes
+  - Fixed wands also using the incorrect Raise Undead ability. Only the premade wand used the item version of the spell, both of the item forge infusions used the necromancer's version from the tome of necromancy.
+  - Fixed Raise Undead action cost from full action to single use.
+  - Fixed infusion name for Torso Magic Crit Chance.
+  - Fixed Lucky Ring infusion description.
+
 ### 0.3
 
 - New Infusions
@@ -40,7 +51,7 @@
     - **Spirit Immunity** - 5 cost.
     - **Morale Immunity** - 5 cost. Gives immunity to morale status effects.
 - Fixes
-  - Fix staves using a different Raise Dead ability than wands.
+  - Fix staves using a different Raise Undead ability than wands.
   - Fix Summon Spirit Hawk infusion cost, is now properly 2 cost.
 
 ### 0.2

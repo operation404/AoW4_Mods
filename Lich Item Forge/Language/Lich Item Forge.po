@@ -48,7 +48,7 @@ msgstr ""
 
 msgid "LICH@UPGRADES@MAGIC_CRIT_CHANCE@NAME"
 msgstr ""
-"+{MELEE_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}% Melee Critical "
+"+{MAGIC_CRIT_CHANCE_CRITICAL_CHANCE>ResolvedCritChanceBonus}% Magic Critical "
 "Chance"
 
 msgid "LICH@UPGRADES@MAGIC_CRIT_CHANCE@DESCRIPTION"
@@ -73,3 +73,8 @@ msgid "LICH@UPGRADES@FREEDOM_OF_MOVEMENT@DESCRIPTION"
 msgstr ""
 "Grants immunity to becoming {GLOBAL.PROPERTIES.SLOWED.Hyperlink} and "
 "{GLOBAL.PROPERTIES.IMMOBILIZED.Hyperlink}."
+
+msgid "LICH@UPGRADES@LUCKY_RING@DESCRIPTION"
+msgstr ""
+"+{LUCKY_RING_CRITICAL_CHANCE>ResolvedCritChanceBonus}% "
+"{GLOBAL.CriticalHitChanceConcept.Hyperlink}."
