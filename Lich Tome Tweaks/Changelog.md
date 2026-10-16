@@ -2,6 +2,14 @@
 
 ## Changelog
 
+### 0.2
+
+Units:
+
+- All units in Tier 3, 4, and 5 tomes from strategic summon spells, tactical summon spells, and alternative recruitment (necromancy reanimation) are now also draftable once their respective tome skill is researched.
+  - As before, most of these use mana with some using gold or souls when applicable.
+  - The only exception so far is the Balor, which also costs pops. I'm unsure of how "balanced" this is as while the Balor is quite good, I'm not sure if it's "kill 2 of my pops" good compared to other T5 units. But the summoning spell costs 2 pops, so I kept it the same for now.
+
 ### 0.1
 
 Units:
