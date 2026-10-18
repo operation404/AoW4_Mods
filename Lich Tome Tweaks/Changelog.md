@@ -2,6 +2,13 @@
 
 ## Changelog
 
+### 0.3
+
+Fixes:
+
+- Fixed Herald of War not being draftable.
+- Fixed Iron Golem Assistant not having Low Maintanence.
+
 ### 0.2
 
 Units:
