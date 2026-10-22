@@ -56,3 +56,6 @@ msgstr ""
 "Magic materials no longer require specific province themes based on the "
 "material type, and can spawn on any valid province on both the surface and "
 "underground."
+
+msgid "LICH@TRAIT_LICH_REGENERATING_INFESTATIONS@NAME"
+msgstr "Lich Regenerating Infestations"
