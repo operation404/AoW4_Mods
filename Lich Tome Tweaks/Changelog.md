@@ -2,6 +2,12 @@
 
 ## Changelog
 
+### 0.5
+
+- Tomes
+  - Tome of the Construct
+    - **Construct Repair** - New tome skill. Empire skill that allows construct units that died during combat to be rebuilt after combat for gold.
+
 ### 0.4
 
 - Updated for Silver Seas DLC.
