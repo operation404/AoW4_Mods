@@ -2,6 +2,36 @@
 
 ## Changelog
 
+### 0.5
+
+- Staff & Wand Item Abilities
+  - **Wand of Whirlpools** - Added as infusion, cost 4. Once per battle restriction removed. Cooldown set to 4.
+  - **Dirge of the Damned** - Once per battle restriction removed. Cooldown set to 5.
+    - *This ability has a built-in reset mechanic, but I still want it to recharge on its own. The unit version of the spell is unchanged.*
+- Infusions
+  - Head
+    - **Demoralizing Vision** - Cost reduced from 3 to 2.
+    - **Terrifying Aura** - 3 cost. Same as ring infusion.
+    - **Judgement Aura** - 3 cost. Applies condemned to adjacent enemies.
+  - Legs
+    - **Fleeting** - 1 cost. Hero isn't stopped by enemy zone of control.
+  - Ring
+    - **Natural Regeneration** - Cost increased from 3 to 4.
+      - *Done to maintain parity with the Silver Seas patch notes where the premade item Ring of Regeneration's tier was increased from 2 to 3.*
+    - **Frenzy** - 2 cost.
+    - **Killing Momentum** - 2 cost.
+  - Amulets & Misc Items
+    - **Swindler's Luck** - 5 cost. Gives +15% crit chance.
+    - **10% Magic Damage** - 1 cost. Magic damage increase.
+    - **10% Melee Damage** - 1 cost. Melee damage increase.
+    - **10% Ranged Damage** - 1 cost. Ranged (missile) damage increase.
+      - *These are all 1 cost because of the precedent set by the Locket of Channeling, a tier 2 item that gives +10 combat casting points and now also gives +10% magic damage. Since the +10 combat casting point infusion already exists and costs 2, to recreate the item the damage passive must by necessity only cost 1. I personally don't think I like having flat damage increases here at such low cost, but my goal is to allow recreating any existing items via the item forge, which means adding these infusions as they are now.*
+    - **Halo of Nekron** - 5 cost. Weakening aura and gives strengthened to the wearer.
+    - **Fiery Rebirth** - 5 cost. Revive after 1 turn, dealing fire damage to nearby enemy units.
+  - Melee Weapons
+    - **All for One** - 2 cost. At the start of combat, gain defense and resistance for each adjacent friendly unit.
+    - **One for All** - 3 cost. Adjacent friendly units gain +20% damage.
+
 ### 0.4
 
 - Staff & Wand Item Abilities
