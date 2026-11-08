@@ -2,6 +2,17 @@
 
 ## Changelog
 
+### 0.6
+
+- Ranged Weapons
+  - Carbine
+    - Fixed Item Forge variant of the Carbine to use the correct visuals as it instead used the sword and pistol models.
+    - Fixed Item Forge variant to no longer disable mounts, matching the base Carbine.
+    - Carbine Snapshot damage reduced from 25 to 20.
+      - *The intent for this is to keep the intended spirit of the carbine, being a magelock that works while mounted, but not have it be objectively better than the normal magelocks or crossbows.*
+    - Carbine Shoot damage reduced from 38 to 30.
+      - *The damage of the 3-action shoot ability is actually just a x1.5 damage copy from the Snapshot ability, so no resources were changed for this effect.*
+
 ### 0.5
 
 - Staff & Wand Item Abilities
