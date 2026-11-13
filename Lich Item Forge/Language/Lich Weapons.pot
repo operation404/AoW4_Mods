@@ -1,0 +1,2 @@
+msgid "LICH@ITEM_FORGE@TYPE@BREACHGUN@NAME"
+msgstr ""
