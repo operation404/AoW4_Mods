@@ -2,6 +2,14 @@
 
 ## Changelog
 
+### 0.7
+
+- Infusions
+  - Helmet
+    - Fixed Judgement Aura having the incorrect property modifier.
+  - Ring
+    - Fixed tooltips for Lucky and Opportunist.
+
 ### 0.6
 
 - Ranged Weapons
