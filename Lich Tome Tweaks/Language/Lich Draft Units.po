@@ -59,6 +59,14 @@ msgstr ""
 msgid "LICH@UNITS@CONSTRUCT_REPAIR@EVENT_TEXT"
 msgstr "Repair Destroyed Constructs"
 
+msgid "LICH@STRATEGIC@SNOW_SPIRIT@NAME"
+msgstr "Summon Snow Spirit"
+
+msgid "LICH@STRATEGIC@SNOW_SPIRIT@DESCRIPTION"
+msgstr ""
+"Summons a {GLOBAL.UNITS.SNOW_SPIRIT.Hyperlink}."
+"{LOC.CONCEPT@SUMMON_LIVE_SHARED}"
+
 msgid "LICH@TACTICAL@@DESCRIPTION"
 msgstr ""
 

@@ -2,6 +2,13 @@
 
 ## Changelog
 
+### 0.6
+
+- Tomes
+  - Tome of the cold Dark
+    - Updated new Summon Frost Giant skill to also allow drafting them.
+    - Re-added Summon Snow Spirit spell, which was reworked into the now Summon Frost Giant spell.
+
 ### 0.5
 
 - Tomes
